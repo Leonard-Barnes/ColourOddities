@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Red RL
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 2276855470494453794, guid: 91d3d1346c12f644cab2733dd34c1f44, type: 3}
+  - {fileID: -3663804279173137703, guid: e49d113df9435ac4c92800be0227f9dc, type: 3}
+  - {fileID: 6243818278349981089, guid: e0103b98a6b935e46bd081863708acdb, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 1

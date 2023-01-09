@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Red BU
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -70994786469202443, guid: e83a3ce7ce6387c4bb3fd1eec7c9b20d, type: 3}
+  - {fileID: 2540042249047195484, guid: bfc69774f06e34a44baecefef2543f14, type: 3}
+  - {fileID: 762562399543877475, guid: 93db6735af097a147b09a09dfba37ead, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0

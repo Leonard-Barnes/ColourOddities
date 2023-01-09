@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Red Mid
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 196028063560683462, guid: f4390b32c71510f4c98174bbdc733459, type: 3}
+  - {fileID: 8515932884971074538, guid: 22d600e743cad1d489913ca66edceb70, type: 3}
+  - {fileID: 4934851603066609547, guid: 7ec06a14b54b4e843b48f913e6b3c544, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
